@@ -1,0 +1,13 @@
+.btn{
+    margin:2em auto;
+    padding: 1rem;
+    border:1px solid red;
+    background-color: royalblue;
+    border-radius: 1rem;
+    display:block;
+}
+.btn:hover{
+     background-color: yellow;
+     cursor: pointer;
+
+}
